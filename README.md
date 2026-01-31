@@ -1,5 +1,6 @@
 # Ai Data And Simulation  for Intelligent Machines
-[![npm downloads](https://img.shields.io/npm/l/@your/package)](https://github.com/achao2013/Ai-Data-And-Simulation/README)
+[![npm downloads](https://img.shields.io/npm/l/@your/package)](https://github.com/achao2013/Ai-Data-And-Simulation/README.md)
+
 This repo is constructed for collecting and categorizing papers about data construction and world simulation in LLM and aigc era for intelligent machines, like autonomous vehicle, embodied robots, etc.
 
 # Techniques
