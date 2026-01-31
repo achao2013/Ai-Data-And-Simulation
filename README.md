@@ -1,5 +1,6 @@
 # Ai Data And Simulation  for Intelligent Machines
 [![CC BY 4.0][cc-by-shield]][cc-by]
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
 
 This repo is constructed for collecting and categorizing papers about data construction and world simulation in LLM and aigc era for intelligent machines, like autonomous vehicle, embodied robots, etc.
 
@@ -368,3 +369,12 @@ arxiv 2025. [Website](https://genie-envisioner.github.io/) | [Paper](https://arx
 *Kabir Swain, Sijie Han, Ayush Raina, Jin Zhang, Shuang Li, Michael Stopa, Antonio Torralba*\
 *Massachusetts Institute of Technology, University of Toronto, Sony Interactive Entertainment, Google Deepmind*\
 arxiv 2026. [Paper](https://arxiv.org/abs/2601.07553)
+
+
+
+**GS-World: An Engine-driven Learning Paradigm for Pursuing Embodied Intelligence using World Models of Generative Simulation**\
+*G. Liu, Y. Deng, Z. Liu, K. Jia*\
+*DexForce Technology Co., Ltd.*\
+TechRxiv 2025. [Website](https://dexforce.github.io/EmbodiChain/) | [Paper](https://openreview.net/attachment?id=E23dMeRpE0&name=pdf) | [Code](https://github.com/DexForce/EmbodiChain)
+
+
